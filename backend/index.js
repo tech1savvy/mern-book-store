@@ -12,7 +12,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://book-store-api-nu-seven.vercel.app/",
+      "https://book-app-frontend-tau.vercel.app",
     ],
     credentials: true,
   })
