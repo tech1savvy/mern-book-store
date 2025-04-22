@@ -12,7 +12,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://book-app-frontend-tau.vercel.app",
+      "https://mern-book-store-git-master-aman-kumars-projects-ab56a69a.vercel.app",
     ],
     credentials: true,
   })
